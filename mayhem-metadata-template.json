@@ -1,0 +1,11 @@
+{
+  "name": "My Mayhem Coin",
+  "symbol": "MMC",
+  "description": "A mayhem-mode launch token.",
+  "image": "https://example.com/my-mayhem-coin.png",
+  "showName": true,
+  "createdOn": "https://pump.fun",
+  "website": "https://example.com",
+  "twitter": "https://x.com/example",
+  "telegram": "https://t.me/example"
+}
