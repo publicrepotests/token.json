@@ -1,11 +1,11 @@
 {
   "name": "My Mayhem Coin",
   "symbol": "MMC",
-  "description": "A mayhem-mode launch token.",
-  "image": "https://example.com/my-mayhem-coin.png",
+  "description": "Discord - https://discord.gg/SUJuRvVHD Game in production ignore placements/items | will be wiped on live launch. Feel free to make sure it's a real game though. Click on test in the game menu and the mints button. NOT final product skins, lootsdrops, homes in the works **Multiplayer is turned off until next week** Dex, boosts and whatever else will come next week once i'm able to work on the game some more. Holiday weekend has been busy.",
+  "image": "https://github.com/publicrepotests/token.json/blob/main/content.png?raw=true",
   "showName": true,
   "createdOn": "https://pump.fun",
-  "website": "https://example.com",
-  "twitter": "https://x.com/example",
+  "website": "https://www.oreacres.online/",
+  "twitter": "https://x.com/OreAcresOnline",
   "telegram": "https://t.me/example"
 }
